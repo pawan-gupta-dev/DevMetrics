@@ -1,0 +1,299 @@
+{
+  "developers": [
+    {
+      "id": 1,
+      "name": "Sarah Chen",
+      "team": "Backend Services",
+      "role": "Senior Software Engineer"
+    },
+    {
+      "id": 2,
+      "name": "Marcus Johnson",
+      "team": "Frontend Platform",
+      "role": "Software Engineer II"
+    },
+    {
+      "id": 3,
+      "name": "Emma Rodriguez",
+      "team": "DevOps & Infrastructure",
+      "role": "DevOps Engineer"
+    }
+  ],
+  "issues": [
+    {
+      "id": 101,
+      "dev_id": 1,
+      "status": "Done",
+      "in_progress_at": "2026-05-01T09:00:00Z",
+      "done_at": "2026-05-02T14:30:00Z",
+      "created_at": "2026-04-28T10:00:00Z"
+    },
+    {
+      "id": 102,
+      "dev_id": 1,
+      "status": "Done",
+      "in_progress_at": "2026-04-25T08:00:00Z",
+      "done_at": "2026-04-30T16:00:00Z",
+      "created_at": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": 103,
+      "dev_id": 1,
+      "status": "Done",
+      "in_progress_at": "2026-04-15T10:00:00Z",
+      "done_at": "2026-04-22T11:00:00Z",
+      "created_at": "2026-04-10T10:00:00Z"
+    },
+    {
+      "id": 104,
+      "dev_id": 1,
+      "status": "In Progress",
+      "in_progress_at": "2026-05-02T09:00:00Z",
+      "done_at": null,
+      "created_at": "2026-05-02T08:00:00Z"
+    },
+    {
+      "id": 201,
+      "dev_id": 2,
+      "status": "Done",
+      "in_progress_at": "2026-04-28T10:00:00Z",
+      "done_at": "2026-05-01T15:00:00Z",
+      "created_at": "2026-04-20T10:00:00Z"
+    },
+    {
+      "id": 202,
+      "dev_id": 2,
+      "status": "Done",
+      "in_progress_at": "2026-04-22T09:00:00Z",
+      "done_at": "2026-04-26T17:00:00Z",
+      "created_at": "2026-04-15T10:00:00Z"
+    },
+    {
+      "id": 301,
+      "dev_id": 3,
+      "status": "Done",
+      "in_progress_at": "2026-04-01T08:00:00Z",
+      "done_at": "2026-04-03T16:00:00Z",
+      "created_at": "2026-03-25T10:00:00Z"
+    }
+  ],
+  "pull_requests": [
+    {
+      "id": 501,
+      "dev_id": 1,
+      "opened_at": "2026-04-28T09:00:00Z",
+      "merged_at": "2026-05-02T14:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 502,
+      "dev_id": 1,
+      "opened_at": "2026-04-20T10:00:00Z",
+      "merged_at": "2026-04-30T16:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 503,
+      "dev_id": 1,
+      "opened_at": "2026-04-10T08:00:00Z",
+      "merged_at": "2026-04-22T11:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 504,
+      "dev_id": 1,
+      "opened_at": "2026-04-05T09:00:00Z",
+      "merged_at": "2026-04-12T15:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 505,
+      "dev_id": 1,
+      "opened_at": "2026-03-28T10:00:00Z",
+      "merged_at": "2026-04-05T17:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 506,
+      "dev_id": 1,
+      "opened_at": "2026-03-20T08:00:00Z",
+      "merged_at": "2026-03-28T14:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 507,
+      "dev_id": 1,
+      "opened_at": "2026-03-15T09:00:00Z",
+      "merged_at": "2026-03-25T16:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 508,
+      "dev_id": 1,
+      "opened_at": "2026-03-10T10:00:00Z",
+      "merged_at": "2026-03-18T15:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 509,
+      "dev_id": 1,
+      "opened_at": "2026-03-05T08:00:00Z",
+      "merged_at": "2026-03-12T14:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 510,
+      "dev_id": 1,
+      "opened_at": "2026-02-28T09:00:00Z",
+      "merged_at": "2026-03-08T17:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 511,
+      "dev_id": 1,
+      "opened_at": "2026-02-20T10:00:00Z",
+      "merged_at": "2026-02-28T16:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 512,
+      "dev_id": 1,
+      "opened_at": "2026-02-15T08:00:00Z",
+      "merged_at": "2026-02-22T15:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 601,
+      "dev_id": 2,
+      "opened_at": "2026-04-25T09:00:00Z",
+      "merged_at": "2026-05-01T15:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 602,
+      "dev_id": 2,
+      "opened_at": "2026-04-15T10:00:00Z",
+      "merged_at": "2026-04-26T17:00:00Z",
+      "status": "merged"
+    },
+    {
+      "id": 603,
+      "dev_id": 3,
+      "opened_at": "2026-03-25T08:00:00Z",
+      "merged_at": "2026-04-03T16:00:00Z",
+      "status": "merged"
+    }
+  ],
+  "deployments": [
+    {
+      "id": 801,
+      "pr_id": 501,
+      "deployed_at": "2026-05-02T18:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 802,
+      "pr_id": 502,
+      "deployed_at": "2026-04-30T20:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 803,
+      "pr_id": 503,
+      "deployed_at": "2026-04-22T19:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 804,
+      "pr_id": 504,
+      "deployed_at": "2026-04-12T18:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 805,
+      "pr_id": 505,
+      "deployed_at": "2026-04-05T20:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 806,
+      "pr_id": 506,
+      "deployed_at": "2026-03-28T19:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 807,
+      "pr_id": 507,
+      "deployed_at": "2026-03-26T18:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 808,
+      "pr_id": 508,
+      "deployed_at": "2026-03-18T20:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 809,
+      "pr_id": 509,
+      "deployed_at": "2026-03-12T19:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 810,
+      "pr_id": 510,
+      "deployed_at": "2026-03-08T18:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 811,
+      "pr_id": 511,
+      "deployed_at": "2026-02-28T20:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 812,
+      "pr_id": 512,
+      "deployed_at": "2026-02-22T19:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 813,
+      "pr_id": 601,
+      "deployed_at": "2026-05-01T18:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 814,
+      "pr_id": 602,
+      "deployed_at": "2026-04-26T20:00:00Z",
+      "status": "success"
+    },
+    {
+      "id": 815,
+      "pr_id": 603,
+      "deployed_at": "2026-04-03T18:00:00Z",
+      "status": "success"
+    }
+  ],
+  "bugs": [
+    {
+      "id": 901,
+      "dev_id": 1,
+      "found_at": "2026-04-15T10:00:00Z",
+      "linked_issue_id": 101
+    },
+    {
+      "id": 902,
+      "dev_id": 1,
+      "found_at": "2026-04-20T14:00:00Z",
+      "linked_issue_id": 102
+    },
+    {
+      "id": 903,
+      "dev_id": 2,
+      "found_at": "2026-04-18T09:00:00Z",
+      "linked_issue_id": 201
+    }
+  ]
+}

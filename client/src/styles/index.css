@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+.metric-card {
+  @apply bg-gray-800 rounded-lg p-6 shadow-lg border border-gray-700;
+}
+
+.metric-value {
+  @apply text-3xl font-bold;
+}
+
+.metric-label {
+  @apply text-sm text-gray-400 uppercase tracking-wider mt-2;
+}
+
+.status-good {
+  @apply text-good;
+}
+
+.status-warn {
+  @apply text-warn;
+}
+
+.status-bad {
+  @apply text-bad;
+}
+
+.badge-good {
+  @apply bg-good/20 text-good px-3 py-1 rounded-full text-xs font-medium;
+}
+
+.badge-warn {
+  @apply bg-warn/20 text-warn px-3 py-1 rounded-full text-xs font-medium;
+}
+
+.badge-bad {
+  @apply bg-bad/20 text-bad px-3 py-1 rounded-full text-xs font-medium;
+}
